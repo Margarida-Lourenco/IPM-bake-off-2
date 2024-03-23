@@ -20,3 +20,10 @@ python -m http.server
 In case the window doesn't work, replace "0.0.0.0:" with "localhost:"
 
 Everytime you make changes on the code, make sure to refresh the page that was open with the last command :)
+
+
+Project made by:
+- [Afonso Mateus](https://github.com/AfonsoMateus12)
+- [Inês Paredes](https://github.com/Paguedes875)
+- [Margarida Lourenço](https://github.com/Margarida-Lourenco)
+- [Tiago Aleixo](https://github.com/Tigas143)
